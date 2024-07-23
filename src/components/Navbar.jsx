@@ -33,7 +33,7 @@ const DropdownLinks = [
 
 function Navbar() {
   return (
-    <main className="w-full bg-white dark:bg-black">
+    <main className="w-full bg-white dark:bg-gray-900 duration-200 relative z-20">
       <div className="flex items-center justify-between gap-4 container py-3 md:py-0 ">
         {/* logo section */}
         <div>

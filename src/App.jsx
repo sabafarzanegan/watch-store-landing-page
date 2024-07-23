@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 
 function App() {
   return (
-    <div className="overflow-x-hidden bg-white dark:bg-black text-black dark:text-white">
+    <div className="overflow-x-hidden bg-white dark:bg-black text-black dark:text-white duration-200">
       {/* navbar */}
       <Navbar />
       {/* hero */}
